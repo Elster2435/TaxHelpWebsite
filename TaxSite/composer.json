@@ -1,0 +1,7 @@
+{
+    "require": {
+        "phpoffice/phpword": "^0.18.3",
+        "phpmailer/phpmailer": "^6.9",
+        "wapmorgan/morphos": "^3.2"
+    }
+}
